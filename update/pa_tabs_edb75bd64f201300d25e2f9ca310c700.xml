@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA My Homepage">69b71bd64f201300d25e2f9ca310c7fe</canvas_page>
+        <name>My Homepage</name>
+        <page display_value="PA My Homepage">6db71bd64f201300d25e2f9ca310c7fd</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-02 10:25:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>edb75bd64f201300d25e2f9ca310c700</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Homepage</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dmok" source="x_195084_dmok">25ec9cb64f9c1300d25e2f9ca310c7ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dmok">25ec9cb64f9c1300d25e2f9ca310c7ea</sys_scope>
+        <sys_update_name>pa_tabs_edb75bd64f201300d25e2f9ca310c700</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-02 10:25:10</sys_updated_on>
+    </pa_tabs>
+</record_update>

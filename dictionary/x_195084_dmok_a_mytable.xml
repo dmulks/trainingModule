@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element max_length="40" name="x_195084_dmok_a_mytable" type="collection">
+        <element attributes="import_attribute_name=FName,edge_encryption_enabled=true" label="FName" max_length="40" name="u_fname" type="string"/>
+        <element attributes="import_attribute_name=Location,edge_encryption_enabled=true" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=Phone,edge_encryption_enabled=true" label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element attributes="import_attribute_name=SName,edge_encryption_enabled=true" label="SName" max_length="40" name="u_sname" type="string"/>
+    </element>
+</database>
